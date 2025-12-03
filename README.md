@@ -1,1 +1,0 @@
-criar uma lista sequencial
